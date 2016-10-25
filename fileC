@@ -1,3 +1,7 @@
 added fileC on fork:dev
+// <<<<<<< HEAD
 added a line on fork:dev while topic1 is also editing it
-
+//=======
+modified on fork:topic1
+//>>>>>>> topic1
+left (but in a sort of "commented out" way) the effect of the conflicted merge.
